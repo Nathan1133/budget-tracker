@@ -1,8 +1,5 @@
 # budget-tracker
 
-
-## Deployment Link
-# Social-Network
 ## Deployment Link
 https://limitless-ocean-02693.herokuapp.com/
 
